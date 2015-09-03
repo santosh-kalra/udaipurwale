@@ -1,2 +1,2 @@
 # PhoneGap
-This phonegap file will load a public html file from dropbox.
+This phonegap app will load a public html file from dropbox.
