@@ -1,2 +1,2 @@
-# udaipurwale
-this will be an index file which has a button to load fb page of udaipurwale
+# PhoneGap
+This phonegap file will load a public html file from dropbox.
