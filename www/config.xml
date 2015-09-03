@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Udaipurwale</name>
+    <name>Sample Jquery Mobile Web App</name>
 
     <description>
-        Udaipurwale sample application that loads fb group mobile page.
+        Sample application that loads a page from my dropbox (a public html file).
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
