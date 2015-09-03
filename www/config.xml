@@ -6,7 +6,7 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Sample Jquery Mobile Web App</name>
+    <name>Sample-Jquery-Mobile-Web-App</name>
 
     <description>
         Sample application that loads a page from my dropbox (a public html file).
