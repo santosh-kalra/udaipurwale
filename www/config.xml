@@ -20,6 +20,8 @@
     
     <preference name="splash-screen-duration" value="1000"/>
     <preference name="SplashScreenDelay" value="1000"/>
+    <preference name="LoadingDialog" value="Global Management,Loading....."/>
+    <preference name="LoadingPageDialog" value="Global Management,Loading....."/>
 
     <!--
         If you do not want any permissions to be added to your app, add the
