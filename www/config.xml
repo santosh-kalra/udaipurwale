@@ -5,6 +5,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
+        
+        <content src="index.html" />
 
     <name>Sample-Jquery-Mobile-Web-App</name>
 
